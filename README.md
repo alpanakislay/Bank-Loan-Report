@@ -1,5 +1,5 @@
 # Bank-Loan-Report
-*DASHBOARD 1:*
+**DASHBOARD 1:**
 
 SUMMARY
 
@@ -76,7 +76,7 @@ Hierarchy: Home Ownership Categories (e.g., own, rent, mortgage)
 Objective: This tree map will display loan metrics categorized by different home ownership statuses, allowing for a hierarchical view of how home ownership impacts loan applications and disbursements.
 These diverse chart types will enhance our ability to visualize and communicate loan-related insights effectively, supporting data-driven decisions and strategic planning within our lending operations."
 
-**DASHBOARD 3: **
+**DASHBOARD 3:**
 
 DETAILS
 

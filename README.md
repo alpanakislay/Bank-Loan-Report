@@ -86,5 +86,11 @@ Objective:
 
 The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
 
+![image](https://github.com/alpanakislay/Bank-Loan-Report/assets/170240674/42818f3f-f856-48cf-90e6-65a4bfb9e4dd)
+![image](https://github.com/alpanakislay/Bank-Loan-Report/assets/170240674/f0093cd8-d8b8-44a6-a904-718765868c73)
+![image](https://github.com/alpanakislay/Bank-Loan-Report/assets/170240674/824e8b99-591f-4eea-8054-a96265c83cb0)
+
+
+
 
 
